@@ -22,4 +22,4 @@ Evaluating them based on metrics like accuracy, precision, recall, and F1 score 
 
 # Certifications
  **Cisco Certified Network Associate (CCNA)** — Issued by Cisco, 2025  
-  [Verify Credential on Credly]([https://www.credly.com/badges/abcd1234](https://www.credly.com/badges/1c359a7a-662f-4214-9f04-3c99ffbcab2a))
+  [Verify Credential on Credly](https://www.credly.com/badges/1c359a7a-662f-4214-9f04-3c99ffbcab2a)
