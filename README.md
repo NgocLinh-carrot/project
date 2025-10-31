@@ -21,5 +21,5 @@ Analyzing and training models on a dataset to detect web traffic attacks.
 Evaluating them based on metrics like accuracy, precision, recall, and F1 score from the confusion matrix to determine the most suitable model.
 
 # Certifications
- **Cisco Certified Network Associate (CCNA)** — Issued by Cisco, 2025  
+ **Cisco Certified Network Associate (CCNA)** Cisco, 2025  
   [Verify Credential on Credly](https://www.credly.com/badges/1c359a7a-662f-4214-9f04-3c99ffbcab2a)
